@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "20597315271",
+    "project_id": "koko-chat-6c914",
+    "storage_bucket": "koko-chat-6c914.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:20597315271:android:ff4f9efb9963a44d4b90e2",
+        "android_client_info": {
+          "package_name": "com.example.koko_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqv58l-pf49xP_lrmLJvYOEtCnv_JRdOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
